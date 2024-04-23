@@ -1,6 +1,6 @@
 # Menu App
 
-This is a simple app for creating, retrieving, updating, deleting, and listing menu items and prices using Django, Django REST, and Next.js. It is based off the project featured in [koladev32's blog](https://koladev.xyz/posts/django-nextjs-crud/).
+This is a simple app for creating, retrieving, updating, deleting, and listing menu items and prices using Django, Django REST, and Next.js. It is based off the project featured in [koladev32's blog](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26).
 
 ## Starting with Django and React
 
